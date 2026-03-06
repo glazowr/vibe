@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.vibe</groupId>
-	<artifactId>insta-media-service</artifactId>
+	<artifactId>media-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>insta-media-service</name>
-	<description>Demo project for Spring Boot</description>
+	<name>media-service</name>
+	<description>Media service for Vibe</description>
 
 	<properties>
 		<java.version>10</java.version>

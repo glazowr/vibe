@@ -1,7 +1,7 @@
 
 spring:
   application:
-    name: insta-discovery
+    name: discovery-service
 
 server:
   port: 8761

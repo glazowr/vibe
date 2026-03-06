@@ -8,11 +8,11 @@
 		<version>2.1.4.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.clone..instagram</groupId>
-	<artifactId>insta-discovery</artifactId>
+	<groupId>com.vibe</groupId>
+	<artifactId>discovery-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>insta-discovery</name>
-	<description>Discovery service for instagram clone</description>
+	<name>discovery-service</name>
+	<description>Discovery service for Vibe</description>
 
 	<properties>
 		<java.version>10</java.version>
