@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.config;
+package com.vibe.instapostservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

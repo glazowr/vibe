@@ -1,4 +1,4 @@
-package com.clone.instagram.instamediaservice.config;
+package com.vibe.instamediaservice.config;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

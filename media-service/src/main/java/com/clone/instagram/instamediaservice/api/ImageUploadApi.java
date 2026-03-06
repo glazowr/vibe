@@ -1,9 +1,9 @@
-package com.clone.instagram.instamediaservice.api;
+package com.vibe.instamediaservice.api;
 
 
-import com.clone.instagram.instamediaservice.model.ImageMetadata;
-import com.clone.instagram.instamediaservice.payload.UploadFileResponse;
-import com.clone.instagram.instamediaservice.service.ImageService;
+import com.vibe.instamediaservice.model.ImageMetadata;
+import com.vibe.instamediaservice.payload.UploadFileResponse;
+import com.vibe.instamediaservice.service.ImageService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;

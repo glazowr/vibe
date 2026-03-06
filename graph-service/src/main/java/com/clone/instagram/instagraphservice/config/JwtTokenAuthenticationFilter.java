@@ -1,4 +1,4 @@
-package com.clone.instagram.instagraphservice.config;
+package com.vibe.instagraphservice.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

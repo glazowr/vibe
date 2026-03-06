@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.entity;
+package com.vibe.Vibefeedservice.entity;
 
 import lombok.Builder;
 import lombok.Data;

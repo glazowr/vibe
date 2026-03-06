@@ -1,4 +1,4 @@
-package com.clone.instagram.instaapigateway.config;
+package com.vibe.vibeapigateway.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

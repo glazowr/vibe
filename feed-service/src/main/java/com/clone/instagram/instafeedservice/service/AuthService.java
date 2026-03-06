@@ -1,12 +1,12 @@
-package com.clone.instagram.instafeedservice.service;
+package com.vibe.Vibefeedservice.service;
 
-import com.clone.instagram.instafeedservice.client.AuthServiceClient;
-import com.clone.instagram.instafeedservice.config.JwtConfig;
-import com.clone.instagram.instafeedservice.exception.UnableToGetAccessTokenException;
-import com.clone.instagram.instafeedservice.exception.UnableToGetUsersException;
-import com.clone.instagram.instafeedservice.payload.JwtAuthenticationResponse;
-import com.clone.instagram.instafeedservice.payload.ServiceLoginRequest;
-import com.clone.instagram.instafeedservice.payload.UserSummary;
+import com.vibe.Vibefeedservice.client.AuthServiceClient;
+import com.vibe.instafeedservice.config.JwtConfig;
+import com.vibe.instafeedservice.exception.UnableToGetAccessTokenException;
+import com.vibe.instafeedservice.exception.UnableToGetUsersException;
+import com.vibe.instafeedservice.payload.JwtAuthenticationResponse;
+import com.vibe.instafeedservice.payload.ServiceLoginRequest;
+import com.vibe.instafeedservice.payload.UserSummary;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

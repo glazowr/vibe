@@ -1,6 +1,6 @@
-package com.clone.instagram.instafeedservice.payload;
+package com.vibe.instafeedservice.payload;
 
-import com.clone.instagram.instafeedservice.messaging.PostEventType;
+import com.vibe.instafeedservice.messaging.PostEventType;
 import lombok.Builder;
 import lombok.Data;
 

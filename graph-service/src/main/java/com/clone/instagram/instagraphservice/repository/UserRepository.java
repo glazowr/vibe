@@ -1,6 +1,6 @@
-package com.clone.instagram.instagraphservice.repository;
+package com.vibe.instagraphservice.repository;
 
-import com.clone.instagram.instagraphservice.model.User;
+import com.vibe.instagraphservice.model.User;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.neo4j.annotation.Query;

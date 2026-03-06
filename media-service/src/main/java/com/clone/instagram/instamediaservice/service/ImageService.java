@@ -1,7 +1,7 @@
-package com.clone.instagram.instamediaservice.service;
+package com.vibe.instamediaservice.service;
 
-import com.clone.instagram.instamediaservice.model.ImageMetadata;
-import com.clone.instagram.instamediaservice.repository.ImageMetadataRepository;
+import com.vibe.instamediaservice.model.ImageMetadata;
+import com.vibe.instamediaservice.repository.ImageMetadataRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

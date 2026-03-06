@@ -1,7 +1,7 @@
-package com.clone.instagram.instafeedservice.client;
+package com.vibe.Vibefeedservice.client;
 
-import com.clone.instagram.instafeedservice.model.User;
-import com.clone.instagram.instafeedservice.payload.PagedResult;
+import com.vibe.Vibefeedservice.model.User;
+import com.vibe.Vibefeedservice.payload.PagedResult;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

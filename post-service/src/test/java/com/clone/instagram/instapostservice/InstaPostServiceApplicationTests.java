@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice;
+package com.vibe.instapostservice;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

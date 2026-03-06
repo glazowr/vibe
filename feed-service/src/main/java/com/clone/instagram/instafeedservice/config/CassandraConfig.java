@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.config;
+package com.vibe.Vibefeedservice.config;
 
 import com.datastax.driver.core.policies.ConstantReconnectionPolicy;
 import org.springframework.beans.factory.annotation.Value;
@@ -15,7 +15,7 @@ import java.util.Collections;
 import java.util.List;
 
 @Configuration
-@EnableCassandraRepositories(basePackages = "com.clone.instagram.instafeedservice.repository")
+@EnableCassandraRepositories(basePackages = "com.vibe.instafeedservice.repository")
 public class CassandraConfig extends AbstractCassandraConfiguration {
 
     @Value("${spring.data.cassandra.keyspaceName}")
@@ -66,7 +66,7 @@ public class CassandraConfig extends AbstractCassandraConfiguration {
 
     @Override
     public String[] getEntityBasePackages() {
-        return new String[]{"com.clone.instagram.instafeedservice.entity"};
+        return new String[]{"com.vibe.Vibefeedservice.entity"};
     }
 
 }

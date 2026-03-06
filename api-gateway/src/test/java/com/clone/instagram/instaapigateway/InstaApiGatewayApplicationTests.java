@@ -1,4 +1,4 @@
-package com.clone.instagram.instaapigateway;
+package com.Vibe.Vibeapigateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class InstaApiGatewayApplicationTests {
+public class VibeApiGatewayApplicationTests {
 
 	@Test
 	public void contextLoads() {

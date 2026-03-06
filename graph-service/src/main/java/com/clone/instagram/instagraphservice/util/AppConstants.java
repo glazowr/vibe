@@ -1,4 +1,4 @@
-package com.clone.instagram.instagraphservice.util;
+package com.vibe.instagraphservice.util;
 
 public interface AppConstants {
     String DEFAULT_PAGE_NUMBER = "0";

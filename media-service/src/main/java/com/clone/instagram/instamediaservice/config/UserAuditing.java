@@ -1,4 +1,4 @@
-package com.clone.instagram.instamediaservice.config;
+package com.vibe.instamediaservice.config;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.core.context.SecurityContextHolder;

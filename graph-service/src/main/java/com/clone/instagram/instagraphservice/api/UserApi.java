@@ -1,11 +1,11 @@
-package com.clone.instagram.instagraphservice.api;
+package com.vibe.instagraphservice.api;
 
 
-import com.clone.instagram.instagraphservice.model.User;
-import com.clone.instagram.instagraphservice.payload.ApiResponse;
-import com.clone.instagram.instagraphservice.payload.FollowRequest;
-import com.clone.instagram.instagraphservice.service.UserService;
-import com.clone.instagram.instagraphservice.util.AppConstants;
+import com.vibe.instagraphservice.model.User;
+import com.vibe.instagraphservice.payload.ApiResponse;
+import com.vibe.instagraphservice.payload.FollowRequest;
+import com.vibe.instagraphservice.service.UserService;
+import com.vibe.instagraphservice.util.AppConstants;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

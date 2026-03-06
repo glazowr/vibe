@@ -1,6 +1,6 @@
-package com.clone.instagram.instapostservice;
+package com.vibe.instapostservice;
 
-import com.clone.instagram.instapostservice.messaging.PostEventStream;
+import com.vibe.instapostservice.messaging.PostEventStream;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.EnableEurekaClient;

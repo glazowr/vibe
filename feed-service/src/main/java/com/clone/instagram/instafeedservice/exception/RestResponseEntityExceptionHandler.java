@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.exception;
+package com.vibe.instafeedservice.exception;
 
 import com.datastax.driver.core.exceptions.PagingStateException;
 import org.springframework.http.HttpHeaders;

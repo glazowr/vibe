@@ -1,4 +1,4 @@
-package com.clone.instagram.instaapigateway.config;
+package com.vibe.vibeapigateway.config;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

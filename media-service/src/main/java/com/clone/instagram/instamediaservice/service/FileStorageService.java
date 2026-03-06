@@ -1,10 +1,10 @@
-package com.clone.instagram.instamediaservice.service;
+package com.vibe.instamediaservice.service;
 
 
-import com.clone.instagram.instamediaservice.exception.InvalidFileException;
-import com.clone.instagram.instamediaservice.exception.InvalidFileNameException;
-import com.clone.instagram.instamediaservice.exception.StorageException;
-import com.clone.instagram.instamediaservice.model.ImageMetadata;
+import com.vibe.instamediaservice.exception.InvalidFileException;
+import com.vibe.instamediaservice.exception.InvalidFileNameException;
+import com.vibe.instamediaservice.exception.StorageException;
+import com.vibe.instamediaservice.model.ImageMetadata;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.io.FilenameUtils;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.clone.instagram.instadiscovery;
+package com.vibe.instadiscovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

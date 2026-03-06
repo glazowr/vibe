@@ -1,6 +1,6 @@
-package com.clone.instagram.instapostservice.payload;
+package com.vibe.instapostservice.payload;
 
-import com.clone.instagram.instapostservice.messaging.PostEventType;
+import com.vibe.instapostservice.messaging.PostEventType;
 import lombok.Builder;
 import lombok.Data;
 import java.time.Instant;

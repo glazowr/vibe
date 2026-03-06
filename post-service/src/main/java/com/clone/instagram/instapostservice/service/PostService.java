@@ -1,11 +1,11 @@
-package com.clone.instagram.instapostservice.service;
+package com.vibe.instapostservice.service;
 
-import com.clone.instagram.instapostservice.exception.NotAllowedException;
-import com.clone.instagram.instapostservice.exception.ResourceNotFoundException;
-import com.clone.instagram.instapostservice.messaging.PostEventSender;
-import com.clone.instagram.instapostservice.model.Post;
-import com.clone.instagram.instapostservice.payload.PostRequest;
-import com.clone.instagram.instapostservice.repository.PostRepository;
+import com.vibe.instapostservice.exception.NotAllowedException;
+import com.vibe.instapostservice.exception.ResourceNotFoundException;
+import com.vibe.instapostservice.messaging.PostEventSender;
+import com.vibe.instapostservice.model.Post;
+import com.vibe.instapostservice.payload.PostRequest;
+import com.vibe.instapostservice.repository.PostRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -1,8 +1,8 @@
-package com.clone.instagram.instapostservice.messaging;
+package com.vibe.instapostservice.messaging;
 
 
-import com.clone.instagram.instapostservice.model.Post;
-import com.clone.instagram.instapostservice.payload.PostEventPayload;
+import com.vibe.instapostservice.model.Post;
+import com.vibe.instapostservice.payload.PostEventPayload;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.kafka.support.KafkaHeaders;
 import org.springframework.messaging.Message;

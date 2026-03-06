@@ -1,14 +1,14 @@
-package com.clone.instagram.instafeedservice.service;
+package com.vibe.instafeedservice.service;
 
-import com.clone.instagram.instafeedservice.client.GraphServiceClient;
-import com.clone.instagram.instafeedservice.config.JwtConfig;
-import com.clone.instagram.instafeedservice.entity.UserFeed;
-import com.clone.instagram.instafeedservice.exception.UnableToGetFollowersException;
-import com.clone.instagram.instafeedservice.model.Post;
-import com.clone.instagram.instafeedservice.model.User;
-import com.clone.instagram.instafeedservice.payload.PagedResult;
-import com.clone.instagram.instafeedservice.repository.FeedRepository;
-import com.clone.instagram.instafeedservice.util.AppConstants;
+import com.vibe.instafeedservice.client.GraphServiceClient;
+import com.vibe.instafeedservice.config.JwtConfig;
+import com.vibe.instafeedservice.entity.UserFeed;
+import com.vibe.instafeedservice.exception.UnableToGetFollowersException;
+import com.vibe.instafeedservice.model.Post;
+import com.vibe.instafeedservice.model.User;
+import com.vibe.instafeedservice.payload.PagedResult;
+import com.vibe.instafeedservice.repository.FeedRepository;
+import com.vibe.instafeedservice.util.AppConstants;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

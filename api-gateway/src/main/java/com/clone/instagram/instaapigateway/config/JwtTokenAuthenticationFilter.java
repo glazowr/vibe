@@ -1,4 +1,4 @@
-package com.clone.instagram.instaapigateway.config;
+package com.vibe.vibeapigateway.config;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

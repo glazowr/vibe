@@ -1,4 +1,4 @@
-package com.clone.instagram.instaapigateway;
+package com.vibe.vibeapigateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,10 +9,10 @@ import org.springframework.cloud.netflix.zuul.EnableZuulProxy;
 @SpringBootApplication
 @EnableEurekaClient
 @EnableZuulProxy
-public class InstaApiGatewayApplication {
+public class vibeApiGatewayApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InstaApiGatewayApplication.class, args);
+		SpringApplication.run(vibeApiGatewayApplication.class, args);
 	}
 
 }

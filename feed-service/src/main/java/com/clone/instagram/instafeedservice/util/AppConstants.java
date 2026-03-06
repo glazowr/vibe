@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.util;
+package com.vibe.vibefeedservice.util;
 
 public interface AppConstants {
 

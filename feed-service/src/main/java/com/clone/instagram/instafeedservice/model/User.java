@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.model;
+package com.vibe.vibefeedservice.model;
 
 import lombok.Builder;
 import lombok.Data;

@@ -1,8 +1,8 @@
-package com.clone.instagram.instafeedservice.api;
+package com.vibe.vibefeedservice.api;
 
-import com.clone.instagram.instafeedservice.model.Post;
-import com.clone.instagram.instafeedservice.payload.SlicedResult;
-import com.clone.instagram.instafeedservice.service.FeedService;
+import com.vibe.vibefeedservice.model.Post;
+import com.vibe.vibefeedservice.payload.SlicedResult;
+import com.vibe.vibefeedservice.service.FeedService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

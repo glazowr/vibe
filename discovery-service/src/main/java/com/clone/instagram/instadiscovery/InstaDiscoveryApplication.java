@@ -1,4 +1,4 @@
-package com.clone.instagram.instadiscovery;
+package com.vibe.instadiscovery;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

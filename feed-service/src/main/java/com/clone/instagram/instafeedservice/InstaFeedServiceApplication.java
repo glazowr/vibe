@@ -1,6 +1,6 @@
-package com.clone.instagram.instafeedservice;
+package com.vibe.vibefeedservice;
 
-import com.clone.instagram.instafeedservice.messaging.PostEventStream;
+import com.vibe.vibefeedservice.messaging.PostEventStream;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.openfeign.EnableFeignClients;
@@ -12,10 +12,10 @@ import org.springframework.web.client.RestTemplate;
 @SpringBootApplication
 @EnableBinding(PostEventStream.class)
 @EnableFeignClients
-public class InstaFeedServiceApplication {
+public class VibeFeedServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InstaFeedServiceApplication.class, args);
+		SpringApplication.run(VibeFeedServiceApplication.class, args);
 	}
 
 	@Bean

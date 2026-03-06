@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.payload;
+package com.vibe.instapostservice.payload;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package com.clone.instagram.instafeedservice.repository;
+package com.vibe.instafeedservice.repository;
 
-import com.clone.instagram.instafeedservice.entity.UserFeed;
+import com.vibe.instafeedservice.entity.UserFeed;
 import org.springframework.data.cassandra.repository.CassandraRepository;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.domain.Slice;

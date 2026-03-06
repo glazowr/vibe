@@ -1,14 +1,14 @@
-cd ./insta-discovery 
+cd ./vibe-discovery
 ./run.sh &
 cd ../auth-service 
 ./run.sh &
-cd ../insta-api-gateway
+cd ../vibe-api-gateway
 ./run.sh &
-cd ../insta-media-service
+cd ../vibe-media-service
 ./run.sh &
-cd ../insta-post-service
+cd ../vibe-post-service
 ./run.sh &
-cd ../insta-graph-service
+cd ../vibe-graph-service
 ./run.sh &
-cd ../insta-feed-service
+cd ../vibe-feed-service
 ./run.sh

@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.config;
+package com.vibe.instapostservice.config;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

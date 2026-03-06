@@ -1,4 +1,4 @@
-package com.clone.instagram.instamediaservice.config;
+package com.vibe.instamediaservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;

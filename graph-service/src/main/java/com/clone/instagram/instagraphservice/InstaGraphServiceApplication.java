@@ -1,6 +1,6 @@
-package com.clone.instagram.instagraphservice;
+package com.vibe.instagraphservice;
 
-import com.clone.instagram.instagraphservice.messaging.UserEventStream;
+import com.vibe.instagraphservice.messaging.UserEventStream;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.stream.annotation.EnableBinding;

@@ -1,6 +1,6 @@
-package com.clone.instagram.instapostservice.repository;
+package com.vibe.instapostservice.repository;
 
-import com.clone.instagram.instapostservice.model.Post;
+import com.vibe.instapostservice.model.Post;
 import org.springframework.data.mongodb.repository.MongoRepository;
 
 import java.util.List;

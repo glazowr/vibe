@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.config;
+package com.vibe.instapostservice.config;
 
 import org.springframework.data.domain.AuditorAware;
 import org.springframework.security.core.context.SecurityContextHolder;

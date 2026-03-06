@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.exception;
+package com.vibe.instapostservice.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

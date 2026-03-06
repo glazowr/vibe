@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.exception;
+package com.vibe.instafeedservice.exception;
 
 public class UnableToGetFollowersException extends RuntimeException {
 

@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.messaging;
+package com.vibe.instafeedservice.messaging;
 
 
 import org.springframework.cloud.stream.annotation.Input;

@@ -1,12 +1,12 @@
-package com.clone.instagram.instagraphservice.service;
+package com.vibe.instagraphservice.service;
 
-import com.clone.instagram.instagraphservice.exception.UsernameAlreadyExistsException;
-import com.clone.instagram.instagraphservice.exception.UsernameNotExistsException;
-import com.clone.instagram.instagraphservice.model.Friendship;
-import com.clone.instagram.instagraphservice.model.NodeDegree;
-import com.clone.instagram.instagraphservice.model.User;
-import com.clone.instagram.instagraphservice.payload.PagedResult;
-import com.clone.instagram.instagraphservice.repository.UserRepository;
+import com.vibe.instagraphservice.exception.UsernameAlreadyExistsException;
+import com.vibe.instagraphservice.exception.UsernameNotExistsException;
+import com.vibe.instagraphservice.model.Friendship;
+import com.vibe.instagraphservice.model.NodeDegree;
+import com.vibe.instagraphservice.model.User;
+import com.vibe.instagraphservice.payload.PagedResult;
+import com.vibe.instagraphservice.repository.UserRepository;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;

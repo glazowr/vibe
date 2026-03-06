@@ -1,4 +1,4 @@
-package com.clone.instagram.instafeedservice.config;
+package com.vibe.Vibefeedservice.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.config.annotation.web.builders.HttpSecurity;

@@ -1,10 +1,10 @@
-package com.clone.instagram.instapostservice.api;
+package com.vibe.instapostservice.api;
 
 
-import com.clone.instagram.instapostservice.model.Post;
-import com.clone.instagram.instapostservice.payload.ApiResponse;
-import com.clone.instagram.instapostservice.payload.PostRequest;
-import com.clone.instagram.instapostservice.service.PostService;
+import com.vibe.instapostservice.model.Post;
+import com.vibe.instapostservice.payload.ApiResponse;
+import com.vibe.instapostservice.payload.PostRequest;
+import com.vibe.instapostservice.service.PostService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

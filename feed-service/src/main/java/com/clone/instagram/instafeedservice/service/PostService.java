@@ -1,9 +1,9 @@
-package com.clone.instagram.instafeedservice.service;
+package com.vibe.instafeedservice.service;
 
-import com.clone.instagram.instafeedservice.client.PostServiceClient;
-import com.clone.instagram.instafeedservice.config.JwtConfig;
-import com.clone.instagram.instafeedservice.exception.UnableToGetPostsException;
-import com.clone.instagram.instafeedservice.model.Post;
+import com.vibe.instafeedservice.client.PostServiceClient;
+import com.vibe.instafeedservice.config.JwtConfig;
+import com.vibe.instafeedservice.exception.UnableToGetPostsException;
+import com.vibe.instafeedservice.model.Post;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

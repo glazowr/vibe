@@ -1,7 +1,7 @@
-package com.clone.instagram.instagraphservice.payload;
+package com.vibe.instagraphservice.payload;
 
 
-import com.clone.instagram.instagraphservice.messaging.UserEventType;
+import com.vibe.instagraphservice.messaging.UserEventType;
 import lombok.Builder;
 import lombok.Data;
 

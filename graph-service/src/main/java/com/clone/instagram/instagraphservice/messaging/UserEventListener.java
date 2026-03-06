@@ -1,8 +1,8 @@
-package com.clone.instagram.instagraphservice.messaging;
+package com.vibe.instagraphservice.messaging;
 
-import com.clone.instagram.instagraphservice.model.User;
-import com.clone.instagram.instagraphservice.payload.UserEventPayload;
-import com.clone.instagram.instagraphservice.service.UserService;
+import com.vibe.instagraphservice.model.User;
+import com.vibe.instagraphservice.payload.UserEventPayload;
+import com.vibe.instagraphservice.service.UserService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.kafka.support.Acknowledgment;

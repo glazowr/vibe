@@ -1,4 +1,4 @@
-package com.clone.instagram.instagraphservice.messaging;
+package com.vibe.instagraphservice.messaging;
 
 public enum UserEventType {
     CREATED, UPDATED

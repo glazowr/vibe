@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.model;
+package com.vibe.instapostservice.model;
 
 import lombok.Data;
 import lombok.NonNull;

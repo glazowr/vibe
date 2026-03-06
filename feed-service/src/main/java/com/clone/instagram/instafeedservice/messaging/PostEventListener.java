@@ -1,8 +1,8 @@
-package com.clone.instagram.instafeedservice.messaging;
+package com.vibe.instafeedservice.messaging;
 
-import com.clone.instagram.instafeedservice.model.Post;
-import com.clone.instagram.instafeedservice.payload.PostEventPayload;
-import com.clone.instagram.instafeedservice.service.FeedGeneratorService;
+import com.vibe.instafeedservice.model.Post;
+import com.vibe.instafeedservice.payload.PostEventPayload;
+import com.vibe.instafeedservice.service.FeedGeneratorService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.cloud.stream.annotation.StreamListener;
 import org.springframework.kafka.support.Acknowledgment;

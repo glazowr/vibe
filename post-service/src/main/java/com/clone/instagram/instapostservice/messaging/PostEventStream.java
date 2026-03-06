@@ -1,4 +1,4 @@
-package com.clone.instagram.instapostservice.messaging;
+package com.vibe.instapostservice.messaging;
 
 import org.springframework.cloud.stream.annotation.Output;
 import org.springframework.messaging.MessageChannel;

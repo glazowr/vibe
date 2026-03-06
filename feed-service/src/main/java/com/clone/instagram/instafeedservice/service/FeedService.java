@@ -1,11 +1,11 @@
-package com.clone.instagram.instafeedservice.service;
+package com.vibe.instafeedservice.service;
 
-import com.clone.instagram.instafeedservice.entity.UserFeed;
-import com.clone.instagram.instafeedservice.exception.ResourceNotFoundException;
-import com.clone.instagram.instafeedservice.model.Post;
-import com.clone.instagram.instafeedservice.payload.SlicedResult;
-import com.clone.instagram.instafeedservice.repository.FeedRepository;
-import com.clone.instagram.instafeedservice.util.AppConstants;
+import com.vibe.instafeedservice.entity.UserFeed;
+import com.vibe.instafeedservice.exception.ResourceNotFoundException;
+import com.vibe.instafeedservice.model.Post;
+import com.vibe.instafeedservice.payload.SlicedResult;
+import com.vibe.instafeedservice.repository.FeedRepository;
+import com.vibe.instafeedservice.util.AppConstants;
 import com.datastax.driver.core.PagingState;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
